@@ -4,7 +4,7 @@ public class GitTest {
         System.out.println("hello.git2");
         System.out.println("hello.git2");
         System.out.println("hello.git2");
-        System.out.println("hello.git444444444444444444");
+        System.out.println("master test!");
 
     }
 }
